@@ -29,7 +29,7 @@
     "@radix-ui/react-separator": "^0.1.0",
     "@radix-ui/react-slider": "^1.1.0",
     "@radix-ui/react-switch": "^1.0.1",
-    "@radix-ui/react-tooltip": "^0.1.7",
+    "@radix-ui/react-tooltip": "^1.0.7",
     "@sentry/nextjs": "^7.42.0",
     "@stitches/react": "^1.2.5",
     "@types/react-input-autosize": "^2.2.1",
